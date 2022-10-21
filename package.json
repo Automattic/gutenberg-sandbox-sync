@@ -1,0 +1,16 @@
+{
+	"name": "@automattic/gutenberg-sandbox-sync",
+	"author": "Automattic Inc.",
+	"version": "0.0.1",
+	"description": "This package is used to sync Gutenberg to sandbox.",
+	"type": "module",
+	"main": "index.js",
+	"bin": "./index.js",
+	"license": "GPL-2.0-or-later",
+	"dependencies": {
+		"chokidar": "^3.5.2",
+		"yargs": "^17.0.1"
+	},
+	"devDependencies": {
+	}
+}
